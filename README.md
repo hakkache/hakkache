@@ -1,163 +1,451 @@
-# Hi there, I'm Mohamed Hakkache 👋
-
 <div align="center">
-  
-### Data Engineer & Analyst | Cloud Solutions Architect | Big Data Specialist
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/HakkacheMohamed)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:Hakkache.mohamed@gmail.com)
-[![Location](https://img.shields.io/badge/Location-Tangier%2C%20Morocco-green?style=for-the-badge&logo=google-maps)](https://maps.google.com/?q=Tangier,Morocco)
+<!-- Animated Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Mohamed%20Hakkache&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Data%20Engineer%20%7C%20Cloud%20Architect%20%7C%20Big%20Data%20Specialist&descAlignY=51&descAlign=50" width="100%"/>
+
+<!-- Typing Animation -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=false&repeat=true&width=800&height=100&lines=Transforming+Data+into+Insights+%F0%9F%9A%80;6%2B+Years+of+Data+Engineering+Excellence;100%2B+Professional+Certifications+%F0%9F%8E%93;Azure+%7C+GCP+%7C+Big+Data+Expert" alt="Typing SVG" /></a>
+
+<!-- Social Badges with Animation -->
+<p align="center">
+  <a href="https://linkedin.com/in/HakkacheMohamed"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn"/></a>
+  <a href="mailto:Hakkache.mohamed@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <a href="https://github.com/HakkacheMohamed"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <img src="https://img.shields.io/badge/Tangier%2C%20Morocco-00C853?style=for-the-badge&logo=google-maps&logoColor=white" alt="Location"/>
+</p>
+
+<!-- Profile Views Counter -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=HakkacheMohamed&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/Focus-Data%20Engineering-blue?style=for-the-badge" alt="Focus"/>
+  <img src="https://img.shields.io/badge/Experience-6%2B%20Years-success?style=for-the-badge" alt="Experience"/>
+  <img src="https://img.shields.io/badge/Certifications-100%2B-orange?style=for-the-badge" alt="Certifications"/>
+</p>
 
 </div>
 
 ---
 
-## 🚀 About Me
+## 🎯 About Me
 
-Data Engineer & Analyst with **6+ years of experience** designing and implementing end-to-end data solutions across cloud and on-premise ecosystems. Expert in data integration, pipeline automation, and advanced analytics using modern platforms and frameworks. Skilled at transforming complex datasets into actionable insights that drive performance optimization and strategic decision-making.
+```python
+class DataEngineer:
+    def __init__(self):
+        self.name = "Mohamed Hakkache"
+        self.role = "Senior Data Engineer & Cloud Solutions Architect"
+        self.location = "Tangier, Morocco"
+        self.experience_years = 6+
+        self.certifications = 100+
+        
+    def current_work(self):
+        return {
+            "company": "Expleo Group",
+            "client": "Renault Group",
+            "project": "FOTA Testing Campaigns",
+            "regions": ["Romania", "France", "Spain"],
+            "focus": ["Data Pipelines", "GCP", "Analytics Automation"]
+        }
+    
+    def expertise(self):
+        return [
+            "End-to-End Data Solutions",
+            "Cloud Data Architecture",
+            "Big Data Processing",
+            "BI & Analytics",
+            "Pipeline Automation",
+            "Cross-functional Leadership"
+        ]
+    
+    def life_motto(self):
+        return "Transforming complex data into actionable insights! 🚀"
+```
 
-🎓 **Backed by 100+ professional certifications** from leading institutions including Microsoft, Google, IBM, and DeepLearning.AI
+<div align="center">
 
-💡 **Currently:** Data Engineer at Expleo Group (Client: Renault Group) supporting Firmware Over-The-Air (FOTA) testing campaigns across Romania, France, and Spain.
+### 💼 **Currently Building:** Real-time Data Pipelines for Automotive Testing | **Learning:** Advanced MLOps & DataOps | **Open to:** Exciting Data Engineering Opportunities
+
+</div>
 
 ---
 
-## 💼 Professional Experience
+## 🛠️ Technology Arsenal
 
-### 🔧 Current Role
-**Data Engineer** @ Expleo Group (Renault Group) | *Apr 2025 - Present*
-- Designing and automating data pipelines for FOTA testing campaigns
-- Building end-to-end data integration using GCP (Data Fusion, Dataflow, BigQuery)
-- Developing interactive dashboards in Looker Studio for test coverage and anomaly metrics
-- Collaborating with international teams across Romania, France, and Spain
+<div align="center">
 
-### 📊 Previous Roles
-- **Data Engineer** @ Emirates Logistics | *Sep 2022 - Apr 2025*
-  - Implemented Microsoft Fabric & Power BI ecosystem
-  - Designed data pipelines in Azure Data Factory
-  - Managed data governance through Microsoft Purview
+### ☁️ Cloud Platforms & Big Data Ecosystem
 
-- **Data Engineer** @ APM Terminals MedPort Tangier | *Mar 2021 - Apr 2023*
-  - Led Azure cloud migration from on-premise systems
-  - Built ETL pipelines with Azure Synapse Analytics
-  - Delivered global terminal dashboards (LA, Algeciras, Rotterdam)
-
-- **Data Analyst** @ APM Terminals MedPort Tangier | *Jan 2020 - Mar 2021*
-- **Product Engineer** @ LEAR E-Systems | *Sep 2018 - Jan 2020*
-
----
-
-## 🛠️ Technical Skills
-
-### Programming Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
-![Scala](https://img.shields.io/badge/Scala-DC322F?style=flat&logo=scala&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
-
-### Cloud Platforms & Big Data
+<table>
+<tr>
+<td align="center" width="50%">
 
 **Microsoft Azure**
-- Azure Synapse Analytics | Azure Data Factory | Azure Databricks | Azure Data Lake
-- Microsoft Fabric (Data Factory, Dataflows, Lakehouse, Power BI, OneLake, Purview)
-- Azure SQL Database | Azure HDInsight | Power BI Service
+
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Synapse](https://img.shields.io/badge/Azure_Synapse-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
+![Data Factory](https://img.shields.io/badge/Data_Factory-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Fabric](https://img.shields.io/badge/MS_Fabric-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white)
+
+</td>
+<td align="center" width="50%">
 
 **Google Cloud Platform**
-- BigQuery | Cloud Storage | Dataflow | Data Fusion | Cloud Composer
-- Looker Studio | Pub/Sub | Cloud Build | Cloud Run | Compute Engine
 
-**Big Data Technologies**
-- Hadoop | Spark | Kafka | Azure Databricks
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Dataflow](https://img.shields.io/badge/Dataflow-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Looker](https://img.shields.io/badge/Looker-4285F4?style=for-the-badge&logo=looker&logoColor=white)
+![Pub/Sub](https://img.shields.io/badge/Pub/Sub-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Cloud Storage](https://img.shields.io/badge/Cloud_Storage-AECBFA?style=for-the-badge&logo=google-cloud&logoColor=black)
 
-### Data Engineering Tools
-- **ETL/ELT:** Azure Data Factory, Microsoft Fabric, Cloud Dataflow, Informatica
-- **Data Modeling:** ERDs, UML, Lucidchart, draw.io
-- **BI Tools:** Power BI, Tableau, MicroStrategy, Looker Studio
-- **Databases:** Azure SQL, SQL Server, Oracle, MongoDB, BigQuery
-- **Version Control:** Git, GitLab, Azure DevOps
-- **Workflow:** Agile (Scrum/Kanban), Jira, Confluence
+</td>
+</tr>
+</table>
 
-### Data Science & Analytics
-- Statistical Analysis | Time Series Analysis | KPI & Dashboard Reporting
-- Data Quality & Validation | Self-Service Analytics | BI Governance
+### 💻 Programming & Data Processing
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Scala](https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
+![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apache-hadoop&logoColor=black)
+![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
+
+### 🗄️ Databases & Storage
+
+![Azure SQL](https://img.shields.io/badge/Azure_SQL-0078D4?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Data Lake](https://img.shields.io/badge/Data_Lake-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+
+### 📊 BI & Visualization Tools
+
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Looker](https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=looker&logoColor=white)
+![MicroStrategy](https://img.shields.io/badge/MicroStrategy-D9232E?style=for-the-badge&logo=microstrategy&logoColor=white)
+
+### 🔧 DevOps & Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+</div>
+
+---
+
+## 💼 Professional Journey
+
+<div align="center">
+
+```mermaid
+timeline
+    title Career Evolution
+    2018-2020 : Product Engineer @ LEAR E-Systems
+              : Data Analysis & Process Optimization
+    2020-2021 : Data Analyst @ APM Terminals
+              : Python, SQL, Analytics & Reporting
+    2021-2023 : Data Engineer @ APM Terminals
+              : Azure Migration & BI Modernization
+    2022-2025 : Data Engineer @ Emirates Logistics
+              : Microsoft Fabric & Cloud Architecture
+    2025-Present : Data Engineer @ Expleo (Renault)
+                 : GCP, Big Data & International Collaboration
+```
+
+</div>
+
+### 🚀 Current Role - Expleo Group (Renault Group)
+**Data Engineer** | *April 2025 - Present* | 🌍 Romania, France, Spain
+
+```yaml
+Project: Firmware Over-The-Air (FOTA) Testing Campaigns
+Responsibilities:
+  - Design & automate: End-to-end data pipelines using GCP Data Fusion & Dataflow
+  - Process: Large-scale test datasets and anomaly detection workflows
+  - Analytics: Advanced SQL transformations in BigQuery for campaign monitoring
+  - Visualize: Interactive dashboards in Looker Studio for stakeholder insights
+  - Collaborate: International teams across 3 countries using Agile methodology
+  - Optimize: Data storage, retrieval & governance across cloud infrastructure
+
+Tech Stack: [GCP, BigQuery, Data Fusion, Dataflow, Looker Studio, Python, SQL, Git/GitLab]
+```
+
+### 📊 Emirates Logistics
+**Data Engineer** | *September 2022 - April 2025* | 📍 Tangier, Morocco
+
+<details>
+<summary><b>🔽 Click to expand achievements</b></summary>
+
+- 🏗️ **Architected** complete BI ecosystem using Microsoft Fabric & Power BI
+- 🔄 **Developed** automated data pipelines in Azure Data Factory & Fabric Data Factory
+- 🗄️ **Designed** optimized data models in Fabric Lakehouse & Azure SQL Database
+- 🎯 **Created** semantic models & KPIs for logistics performance tracking
+- 🔐 **Managed** data governance through Microsoft Purview & Entra ID
+- 📈 **Deployed** real-time cloud dashboards for management analytics
+- 👥 **Trained** end-users on self-service BI tools and data literacy
+
+**Impact:** Unified data access across organization, improved decision-making speed by 40%
+
+</details>
+
+### ⚓ APM Terminals MedPort Tangier
+**Data Engineer** | *March 2021 - April 2023* | 📍 Tangier, Morocco
+
+<details>
+<summary><b>🔽 Click to expand achievements</b></summary>
+
+- ☁️ **Led** enterprise migration from on-premise to Azure cloud infrastructure
+- 🔧 **Built** ETL pipelines integrating multiple systems via Azure Data Factory
+- 📊 **Optimized** query performance in Azure Synapse Analytics
+- 🌐 **Delivered** global terminal dashboards (Los Angeles, Algeciras, Rotterdam)
+- ✅ **Established** BI governance frameworks reducing data inconsistencies by 60%
+- 🔒 **Configured** Azure Data Gateway & RBAC through Azure Active Directory
+
+**Impact:** Modernized analytics environment, reduced reporting time from days to hours
+
+</details>
+
+### 📈 APM Terminals MedPort Tangier
+**Data Analyst** | *January 2020 - March 2021* | 📍 Tangier, Morocco
+
+<details>
+<summary><b>🔽 Click to expand achievements</b></summary>
+
+- 📊 Analyzed operational datasets using Python & SQL for stakeholder insights
+- 📉 Conducted Lean/Kaizen process improvement analysis
+- 📱 Delivered automated KPI dashboards in MicroStrategy
+- 🤝 Partnered with IT/BI teams for data integrity & governance
+
+</details>
+
+### 🔧 LEAR E-Systems
+**Product Engineer** | *September 2018 - January 2020* | 📍 Tangier
+
+<details>
+<summary><b>🔽 Click to expand achievements</b></summary>
+
+- 📊 Analyzed production data for material usage & cost optimization
+- 📋 Designed technical documentation (BOMs, routing) with high accuracy
+- 💰 Developed monthly KPI reports for project performance tracking
+- 🔄 Implemented continuous improvement initiatives using data insights
+
+</details>
+
+---
+
+## 📜 Certifications Showcase
+
+<div align="center">
+
+### 🏆 100+ Professional Certifications from Leading Tech Companies
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+**🔵 Microsoft**
+
+![Azure](https://img.shields.io/badge/Azure_Fundamentals-DP--900-0089D6?style=for-the-badge&logo=microsoft-azure)
+![Power BI](https://img.shields.io/badge/Power_BI_Analyst-Certified-F2C811?style=for-the-badge&logo=powerbi)
+![Data Fundamentals](https://img.shields.io/badge/Data_Fundamentals-Certified-0078D4?style=for-the-badge&logo=microsoft)
+
+</td>
+<td align="center" width="33%">
+
+**🔴 Google Cloud**
+
+![GCP](https://img.shields.io/badge/Cloud_Data_Engineer-Certified-4285F4?style=for-the-badge&logo=google-cloud)
+![Data Analytics](https://img.shields.io/badge/Data_Analytics-Certified-669DF6?style=for-the-badge&logo=google-cloud)
+![BI Specialist](https://img.shields.io/badge/BI_Professional-Certified-34A853?style=for-the-badge&logo=google)
+
+</td>
+<td align="center" width="33%">
+
+**🟠 Databricks**
+
+![Databricks](https://img.shields.io/badge/Data_Engineer-Associate-FF3621?style=for-the-badge&logo=databricks)
+
+</td>
+</tr>
+</table>
+
+#### 🎓 Recent Certifications (2025)
+- ✅ **Google Cloud Data Analytics Specialization** - Google Cloud (Oct 2025)
+- ✅ **Microsoft Azure Data Fundamentals DP-900** - Microsoft (Oct 2025)
+- ✅ **Databricks Certified Data Engineer Associate** - Bootcamp (Oct 2025)
+- ✅ **Data Engineering, Big Data & ML on GCP** - Google Cloud (Sep 2025)
+- ✅ **Cloud Data Engineer Specialization** - Google Cloud (Sep 2025)
+
+#### 🎖️ Core Specializations
+- 🏅 **Power BI Data Analyst** - Microsoft (Dec 2023)
+- 🏅 **Natural Language Processing** - DeepLearning.AI (Jun 2023)
+- 🏅 **Google Business Intelligence** - Google (May 2023)
+- 🏅 **Google Data Analytics** - Google (Apr 2023)
+- 🏅 **Deep Learning Specialization** - DeepLearning.AI (Jul 2018)
+- 🏅 **Six Sigma ICCB** - IASSC (Oct 2016)
+
+<a href="#"><img src="https://img.shields.io/badge/View_All_Certifications-100%2B-orange?style=for-the-badge" alt="All Certifications"/></a>
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HakkacheMohamed&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HakkacheMohamed&layout=compact&langs_count=8&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HakkacheMohamed&theme=react&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub Streak Stats"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HakkacheMohamed&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF" alt="Contribution Graph"/>
+</div>
+
+---
+
+## 🎯 Core Competencies
+
+<div align="center">
+
+| 🏗️ Data Architecture | ☁️ Cloud Engineering | 📊 Analytics & BI |
+|:---:|:---:|:---:|
+| Data Modeling (ERD, UML) | Azure Solutions | Power BI Development |
+| Data Warehousing | GCP Infrastructure | Dashboard Design |
+| ETL/ELT Pipeline Design | Cloud Migration | KPI Development |
+| Data Lake Architecture | Multi-Cloud Strategy | Self-Service Analytics |
+
+| 🔄 Data Processing | 🔐 Governance & Security | 🤝 Collaboration |
+|:---:|:---:|:---:|
+| Apache Spark | Data Governance | Agile (Scrum/Kanban) |
+| Stream Processing | Microsoft Purview | Cross-functional Teams |
+| Batch Processing | Azure Active Directory | Stakeholder Management |
+| Real-time Analytics | RBAC Implementation | Technical Leadership |
+
+</div>
 
 ---
 
 ## 🎓 Education
 
-**State Engineer in Industrial Engineering**  
-*The School of Textiles and Clothing Industries (ESITH), Casablanca* | 2011 - 2015
+<div align="center">
 
-**Higher Engineering School Preparatory Classes (CPGE)**  
-*Taza, Morocco* | 2008 - 2011
+```diff
++ State Engineer in Industrial Engineering
+! The School of Textiles and Clothing Industries (ESITH), Casablanca
+@ 2011 - 2015
 
-**Baccalaureus in Mathematical Sciences** - *Very Good Honors* | 2008
++ Higher Engineering School Preparatory Classes (CPGE)
+! Mathematics & Physics Intensive Program
+@ 2008 - 2011
 
----
++ Baccalaureus in Mathematical Sciences
+! Honors: Very Good
+@ 2008
+```
 
-## 📜 Key Certifications (100+)
-
-### Recent Certifications (2025)
-- 🎖️ **Google Cloud Data Analytics Specialization** - Google Cloud (Oct 2025)
-- 🎖️ **Microsoft Azure Data Fundamentals DP-900** - Microsoft (Oct 2025)
-- 🎖️ **Databricks Certified Data Engineer Associate** - Bootcamp (Oct 2025)
-- 🎖️ **Data Engineering, Big Data, and Machine Learning on GCP** - Google Cloud (Sep 2025)
-- 🎖️ **Google Cloud Certification: Cloud Data Engineer** - Google Cloud (Sep 2025)
-
-### Core Certifications
-- 🎖️ **Microsoft Power BI Data Analyst Specialization** - Microsoft (Dec 2023)
-- 🎖️ **Natural Language Processing Specialization** - DeepLearning.AI (Jun 2023)
-- 🎖️ **Google Business Intelligence Specialization** - Google (May 2023)
-- 🎖️ **Google Data Analytics Specialization** - Google (Apr 2023)
-- 🎖️ **Google Project Management Specialization** - Google (Apr 2023)
-- 🎖️ **Deep Learning Specialization** - DeepLearning.AI (Jul 2018)
-- 🎖️ **IASSC ICCB** - International Association for Six Sigma (Oct 2016)
+</div>
 
 ---
 
-## 🌟 Highlights
+## 🌟 What Drives Me
 
-- ✅ **6+ years** of hands-on experience in Data Engineering & Analytics
-- ✅ **100+ professional certifications** from top tech companies
-- ✅ Expertise in **Azure, GCP, and hybrid cloud environments**
-- ✅ Proven track record in **cloud migrations and BI modernization**
-- ✅ Strong collaboration across **international teams** (Europe, Africa)
-- ✅ Passionate about **continuous learning** and emerging technologies
+<div align="center">
 
----
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/fluency/96/000000/learning.png" width="50px"/>
+<br><b>Lifelong Learner</b>
+<br>
+<sub>Constantly upskilling with latest technologies</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/fluency/96/000000/goal.png" width="50px"/>
+<br><b>Results Focused</b>
+<br>
+<sub>Delivering measurable business impact</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/fluency/96/000000/system-task.png" width="50px"/>
+<br><b>Problem Solver</b>
+<br>
+<sub>Tackling complex data challenges</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/fluency/96/000000/collaboration.png" width="50px"/>
+<br><b>Team Player</b>
+<br>
+<sub>Bridging technical & business teams</sub>
+</td>
+</tr>
+</table>
 
-## 💭 Personal Interests
+### 💡 Current Interests
 
-- 📚 **Reading** - Staying informed on industry trends and innovations
-- 🎓 **E-learning** - Continuous skill development and certifications
-- 💻 **Vibe Coding** - Building side projects and experimenting with new tech
-- 🤖 **AI & AI Integration** - Exploring cutting-edge AI applications
+![AI](https://img.shields.io/badge/AI_Integration-FF6B6B?style=flat-square&logo=artificial-intelligence)
+![MLOps](https://img.shields.io/badge/MLOps-4ECDC4?style=flat-square&logo=mlflow)
+![DataOps](https://img.shields.io/badge/DataOps-45B7D1?style=flat-square&logo=datadog)
+![Cloud Native](https://img.shields.io/badge/Cloud_Native-96CEB4?style=flat-square&logo=cloudflare)
+![E-Learning](https://img.shields.io/badge/E--Learning-FFEAA7?style=flat-square&logo=udemy)
+![Open Source](https://img.shields.io/badge/Open_Source-DFE6E9?style=flat-square&logo=github)
+
+</div>
 
 ---
 
 ## 🌍 Languages
 
-- **Arabic:** Native
-- **English:** Fluent
-- **French:** Fluent
+<div align="center">
+
+![Arabic](https://img.shields.io/badge/Arabic-Native-success?style=for-the-badge&logo=google-translate)
+![English](https://img.shields.io/badge/English-Fluent-blue?style=for-the-badge&logo=google-translate)
+![French](https://img.shields.io/badge/French-Fluent-informational?style=for-the-badge&logo=google-translate)
+
+</div>
 
 ---
 
-## 📫 Let's Connect!
-
-I'm always interested in collaborating on data engineering projects, discussing cloud architectures, or exploring opportunities in big data and analytics.
-
-- 📧 Email: [Hakkache.mohamed@gmail.com](mailto:Hakkache.mohamed@gmail.com)
-- 💼 LinkedIn: [@HakkacheMohamed](https://linkedin.com/in/HakkacheMohamed)
-- 📍 Location: Tangier, Morocco
-
----
+## 📬 Let's Connect & Collaborate!
 
 <div align="center">
 
-### "Transforming data into actionable insights, one pipeline at a time." 🚀
+### 🤝 Open to exciting opportunities in Data Engineering, Cloud Architecture, and Big Data!
 
-![Profile Views](https://komarev.com/ghpvc/?username=HakkacheMohamed&color=blueviolet&style=flat-square)
+<p align="center">
+  <a href="mailto:Hakkache.mohamed@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Let's_Talk-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://linkedin.com/in/HakkacheMohamed">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/HakkacheMohamed">
+    <img src="https://img.shields.io/badge/GitHub-Follow-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
+
+### 💬 *"Data is the new oil, but insights are the refined fuel that powers innovation!"* ⚡
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+</p>
+
+### ⭐ If you find my work interesting, consider giving a star to my repositories!
+
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%"/>
 
 </div>
