@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Mohamed%20Hakkache&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Data%20Engineer%20%7C%20Data%20Analyst%20%7C%20Big%20Data%20Specialist&descAlignY=51&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Mohamed%20Hakkache&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Data%20Engineer%20%7C%20Data%20Analyst%20%7C%20Cloud%20Data%20Engineer&descAlignY=51&descAlign=50" width="100%"/>
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=false&repeat=true&width=800&height=100&lines=Transforming+Data+into+Insights+%F0%9F%9A%80;6%2B+Years+of+Data+Engineering+Excellence;100%2B+Professional+Certifications+%F0%9F%8E%93;Azure+%7C+GCP+%7C+Big+Data+Expert" alt="Typing SVG" /></a>
