@@ -1,14 +1,14 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Mohamed%20Hakkache&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Data%20Engineer%20%7C%20Data%20Analyst%20%7C%20Cloud%20Data%20Engineer&descAlignY=51&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Mohamed%20Hakkache&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Data%20Engineer%20%7C%20Data%20Analyst%20%7C%20Cloud%20Data%20Engineert&descAlignY=51&descAlign=50" width="100%"/>
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=false&repeat=true&width=800&height=100&lines=Transforming+Data+into+Insights+%F0%9F%9A%80;6%2B+Years+of+Data+Engineering+Excellence;100%2B+Professional+Certifications+%F0%9F%8E%93;Azure+%7C+GCP+%7C+Big+Data+Expert" alt="Typing SVG" /></a>
 
 <!-- Social Badges with Animation -->
 <p align="center">
-  <a href="https://linkedin.com/in/hakkache-mohamed"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/hakkache-mohamed/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn"/></a>
   <a href="mailto:Hakkache.mohamed@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
   <a href="https://github.com/hakkache"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
   <img src="https://img.shields.io/badge/Tangier%2C%20Morocco-00C853?style=for-the-badge&logo=google-maps&logoColor=white" alt="Location"/>
@@ -16,7 +16,7 @@
 
 <!-- Profile Views Counter -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=HakkacheMohamed&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=hakkache&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
   <img src="https://img.shields.io/badge/Focus-Data%20Engineering-blue?style=for-the-badge" alt="Focus"/>
   <img src="https://img.shields.io/badge/Experience-6%2B%20Years-success?style=for-the-badge" alt="Experience"/>
   <a href="https://www.linkedin.com/in/hakkache-mohamed/details/certifications/"><img src="https://img.shields.io/badge/Certifications-100%2B-orange?style=for-the-badge" alt="Certifications"/></a>
@@ -279,21 +279,21 @@ Tech Stack: [GCP, BigQuery, Data Fusion, Dataflow, Looker Studio, Python, SQL, G
 </table>
 
 #### 🎓 Recent Certifications (2025)
-- ✅ **Google Cloud Data Analytics Specialization** - Google Cloud (Oct 2025)
-- ✅ **Microsoft Azure Data Fundamentals DP-900** - Microsoft (Oct 2025)
-- ✅ **Databricks Certified Data Engineer Associate** - Bootcamp (Oct 2025)
-- ✅ **Data Engineering, Big Data & ML on GCP** - Google Cloud (Sep 2025)
-- ✅ **Cloud Data Engineer Specialization** - Google Cloud (Sep 2025)
+- ✅ **[Google Cloud Data Analytics Specialization](https://www.coursera.org/account/accomplishments/specialization/0GG5JZESCU94)** - Google Cloud (Oct 2025)
+- ✅ **[Microsoft Azure Data Fundamentals DP-900](https://www.coursera.org/account/accomplishments/specialization/WKRGBAERWO65)** - Microsoft (Oct 2025)
+- ✅ **[Databricks Certified Data Engineer Associate](https://www.udemy.com/certificate/UC-0acfc3b0-0333-4f07-b633-f550ece1d0dd/)** - Bootcamp (Oct 2025)
+- ✅ **[Data Engineering, Big Data & ML on GCP](https://www.coursera.org/account/accomplishments/specialization/DOKNVFQACHMG)** - Google Cloud (Sep 2025)
+- ✅ **[Cloud Data Engineer Specialization](https://www.coursera.org/account/accomplishments/specialization/7SR5OZH6ER5I)** - Google Cloud (Sep 2025)
 
 #### 🎖️ Core Specializations
-- 🏅 **Power BI Data Analyst** - Microsoft (Dec 2023)
-- 🏅 **Natural Language Processing** - DeepLearning.AI (Jun 2023)
-- 🏅 **Google Business Intelligence** - Google (May 2023)
-- 🏅 **Google Data Analytics** - Google (Apr 2023)
-- 🏅 **Deep Learning Specialization** - DeepLearning.AI (Jul 2018)
-- 🏅 **Six Sigma ICCB** - IASSC (Oct 2016)
+- 🏅 **[Power BI Data Analyst](https://www.coursera.org/account/accomplishments/specialization/certificate/MSARE4DERMGD)** - Microsoft (Dec 2023)
+- 🏅 **[Natural Language Processing](https://www.coursera.org/account/accomplishments/specialization/certificate/KRF8YZL2UR99)** - DeepLearning.AI (Jun 2023)
+- 🏅 **[Google Business Intelligence](https://www.coursera.org/account/accomplishments/specialization/certificate/WPGM4RJKFJYQ)** - Google (May 2023)
+- 🏅 **[Google Data Analytics](https://www.coursera.org/account/accomplishments/specialization/certificate/MSARE4DERMGD)** - Google (Apr 2023)
+- 🏅 **[Deep Learning Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/DG7HB99ZKMPH)** - DeepLearning.AI (Jul 2018)
+- 🏅 **[Six Sigma ICCB](https://iassc.org/contact/verify-a-certificate/)** - IASSC (Oct 2016)
 
-<a href="#"><img src="https://img.shields.io/badge/View_All_Certifications-100%2B-orange?style=for-the-badge" alt="All Certifications"/></a>
+<a href="https://www.linkedin.com/in/hakkache-mohamed/details/certifications/"><img src="https://img.shields.io/badge/View_All_Certifications-100%2B-orange?style=for-the-badge" alt="All Certifications"/></a>
 
 </div>
 
@@ -302,16 +302,16 @@ Tech Stack: [GCP, BigQuery, Data Fusion, Dataflow, Looker Studio, Python, SQL, G
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HakkacheMohamed&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HakkacheMohamed&layout=compact&langs_count=8&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hakkache&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hakkache&layout=compact&langs_count=8&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HakkacheMohamed&theme=react&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub Streak Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hakkache&theme=react&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub Streak Stats"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HakkacheMohamed&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hakkache&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF" alt="Contribution Graph"/>
 </div>
 
 ---
@@ -428,7 +428,7 @@ Tech Stack: [GCP, BigQuery, Data Fusion, Dataflow, Looker Studio, Python, SQL, G
   <a href="mailto:Hakkache.mohamed@gmail.com">
     <img src="https://img.shields.io/badge/Email-Let's_Talk-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://linkedin.com/in/HakkacheMohamed">
+  <a href="https://www.linkedin.com/in/hakkache-mohamed/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/hakkache">
