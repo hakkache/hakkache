@@ -8,7 +8,7 @@
 
 <!-- Social Badges with Animation -->
 <p align="center">
-  <a href="https://linkedin.com/in/hakkache-mohamed"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn"/></a>
+  <a href="https://linkedin.com/in/HakkacheMohamed"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn"/></a>
   <a href="mailto:Hakkache.mohamed@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
   <a href="https://github.com/HakkacheMohamed"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
   <img src="https://img.shields.io/badge/Tangier%2C%20Morocco-00C853?style=for-the-badge&logo=google-maps&logoColor=white" alt="Location"/>
