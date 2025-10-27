@@ -1,16 +1,16 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Mohamed%20HAKKACHE&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Data%20Engineer%20%7C%20Data%20Analyst%20%7C%20Cloud%20Data%20Engineer&descAlignY=51&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Mohamed%20Hakkache&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Data%20Engineer%20%7C%20Cloud%20Architect%20%7C%20Big%20Data%20Specialist&descAlignY=51&descAlign=50" width="100%"/>
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=false&repeat=true&width=800&height=100&lines=Transforming+Data+into+Insights+%F0%9F%9A%80;6%2B+Years+of+Data+Engineering+Excellence;100%2B+Professional+Certifications+%F0%9F%8E%93;Azure+%7C+GCP+%7C+Big+Data+Expert" alt="Typing SVG" /></a>
 
 <!-- Social Badges with Animation -->
 <p align="center">
-  <a href="https://linkedin.com/in/hakkache-mohamed"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn"/></a>
+  <a href="https://linkedin.com/in/HakkacheMohamed"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn"/></a>
   <a href="mailto:Hakkache.mohamed@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-  <a href="https://github.com/hakkache"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://github.com/HakkacheMohamed"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
   <img src="https://img.shields.io/badge/Tangier%2C%20Morocco-00C853?style=for-the-badge&logo=google-maps&logoColor=white" alt="Location"/>
 </p>
 
@@ -19,7 +19,7 @@
   <img src="https://komarev.com/ghpvc/?username=HakkacheMohamed&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
   <img src="https://img.shields.io/badge/Focus-Data%20Engineering-blue?style=for-the-badge" alt="Focus"/>
   <img src="https://img.shields.io/badge/Experience-6%2B%20Years-success?style=for-the-badge" alt="Experience"/>
-  <img src="https://img.shields.io/badge/Certifications-100%2B-orange?style=for-the-badge" alt="Certifications"/>
+  <a href="https://www.linkedin.com/in/hakkache-mohamed/details/certifications/"><img src="https://img.shields.io/badge/Certifications-100%2B-orange?style=for-the-badge" alt="Certifications"/></a>
 </p>
 
 </div>
