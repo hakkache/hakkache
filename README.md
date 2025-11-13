@@ -28,36 +28,37 @@
 
 ## 🎯 About Me
 
-```python
+```scala
 class DataEngineer:
-    def __init__(self):
-        self.name = "Mohamed Hakkache"
-        self.role = "Senior Data Engineer & Cloud Solutions Architect"
-        self.location = "Tangier, Morocco"
-        self.experience_years = 6+
-        self.certifications = 100+
-        
-    def current_work(self):
-        return {
-            "company": "Expleo Group",
-            "client": "Renault Group",
-            "project": "FOTA Testing Campaigns",
-            "regions": ["Romania", "France", "Spain"],
-            "focus": ["Data Pipelines", "GCP", "Analytics Automation"]
-        }
-    
-    def expertise(self):
-        return [
-            "End-to-End Data Solutions",
-            "Cloud Data Architecture",
-            "Big Data Processing",
-            "BI & Analytics",
-            "Pipeline Automation",
-            "Cross-functional Leadership"
-        ]
-    
-    def life_motto(self):
-        return "Transforming complex data into actionable insights! 🚀"
+
+  val name: String = "Mohamed Hakkache"
+  val role: String = "Senior Data Engineer & Cloud Solutions Architect"
+  val location: String = "Tangier, Morocco"
+  val experienceYears: Int = 6    // instead of "6+" we use a number
+  val certifications: Int = 100
+
+  def currentWork(): Map[String, Any] =
+    Map(
+      "company" -> "Expleo Group",
+      "client" -> "Renault Group",
+      "project" -> "FOTA Testing Campaigns",
+      "regions" -> List("Romania", "France", "Spain"),
+      "focus"   -> List("Data Pipelines", "GCP", "Analytics Automation")
+    )
+
+  def expertise(): List[String] =
+    List(
+      "End-to-End Data Solutions",
+      "Cloud Data Architecture",
+      "Big Data Processing",
+      "BI & Analytics",
+      "Pipeline Automation",
+      "Cross-functional Leadership"
+    )
+
+  def lifeMotto(): String =
+    "Transforming complex data into actionable insights! 🚀"
+
 ```
 
 <div align="center">
