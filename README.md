@@ -34,7 +34,7 @@ class DataEngineer:
   val name: String = "Mohamed Hakkache"
   val role: String = "Senior Data Engineer & Cloud Solutions Architect"
   val location: String = "Tangier, Morocco"
-  val experienceYears: Int = 6    // instead of "6+" we use a number
+  val experienceYears: Int = 6    
   val certifications: Int = 100
 
   def currentWork(): Map[String, Any] =
