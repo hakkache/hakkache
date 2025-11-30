@@ -305,20 +305,34 @@ Tech Stack: [GCP, BigQuery, Data Fusion, Dataflow, Looker Studio, Python, SQL, G
 
 <div align="center">
 
-  <!-- GitHub Stats (mirror server to avoid errors) -->
-  <img height="180em" src="https://github-readme-stats-coral-iota.vercel.app/api?username=hakkache&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF"/>
+  <!-- GitHub Stats -->
+  <img height="180em" 
+       src="https://github-readme-stats-sigma-five.vercel.app/api?username=hakkache&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF"
+  />
 
-  <!-- Top Languages (mirror server to avoid errors) -->
-  <img height="180em" src="https://github-readme-stats-coral-iota.vercel.app/api/top-langs/?username=hakkache&layout=compact&langs_count=8&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF"/>
+  <!-- Top Languages -->
+  <img height="180em" 
+       src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=hakkache&layout=compact&langs_count=8&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF"
+  />
+
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hakkache&theme=react&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub Streak Stats"/>
+  <!-- Streak Stats -->
+  <img 
+       src="https://github-readme-streak-stats.herokuapp.com/?user=hakkache&theme=react&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" 
+       alt="GitHub Streak Stats"
+  />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hakkache&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF" alt="Contribution Graph"/>
+  <!-- Activity Graph -->
+  <img 
+       src="https://github-readme-activity-graph.vercel.app/graph?username=hakkache&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF" 
+       alt="Contribution Graph"
+  />
 </div>
+
 
 
 ---
