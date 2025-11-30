@@ -304,8 +304,12 @@ Tech Stack: [GCP, BigQuery, Data Fusion, Dataflow, Looker Studio, Python, SQL, G
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hakkache&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hakkache&layout=compact&langs_count=8&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF"/>
+
+  <!-- GitHub Stats (mirror server to avoid errors) -->
+  <img height="180em" src="https://github-readme-stats-coral-iota.vercel.app/api?username=hakkache&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF"/>
+
+  <!-- Top Languages (mirror server to avoid errors) -->
+  <img height="180em" src="https://github-readme-stats-coral-iota.vercel.app/api/top-langs/?username=hakkache&layout=compact&langs_count=8&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF"/>
 </div>
 
 <div align="center">
@@ -315,6 +319,7 @@ Tech Stack: [GCP, BigQuery, Data Fusion, Dataflow, Looker Studio, Python, SQL, G
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=hakkache&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF" alt="Contribution Graph"/>
 </div>
+
 
 ---
 
