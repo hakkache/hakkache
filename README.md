@@ -102,6 +102,18 @@ class DataEngineer:
 
 </td>
 </tr>
+<tr>
+<td align="center" colspan="2">
+
+**Modern Data Lakehouse & Storage**
+
+![Apache Iceberg](https://img.shields.io/badge/Apache_Iceberg-2A8FBD?style=for-the-badge&logo=apache&logoColor=white)
+![Project Nessie](https://img.shields.io/badge/Project_Nessie-4A90E2?style=for-the-badge&logo=git&logoColor=white)
+![Minio](https://img.shields.io/badge/Minio-C72E49?style=for-the-badge&logo=minio&logoColor=white)
+![Trino](https://img.shields.io/badge/Trino-DD00A1?style=for-the-badge&logo=trino&logoColor=white)
+
+</td>
+</tr>
 </table>
 
 ### 💻 Programming & Data Processing
@@ -114,6 +126,7 @@ class DataEngineer:
 ![Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
 ![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apache-hadoop&logoColor=black)
 ![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
+![Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)
 
 ### 🗄️ Databases & Storage
 
@@ -122,6 +135,10 @@ class DataEngineer:
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Data Lake](https://img.shields.io/badge/Data_Lake-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Apache Iceberg](https://img.shields.io/badge/Apache_Iceberg-2A8FBD?style=for-the-badge&logo=apache&logoColor=white)
+![Minio](https://img.shields.io/badge/Minio-C72E49?style=for-the-badge&logo=minio&logoColor=white)
+![Project Nessie](https://img.shields.io/badge/Project_Nessie-4A90E2?style=for-the-badge&logo=git&logoColor=white)
+![Trino](https://img.shields.io/badge/Trino-DD00A1?style=for-the-badge&logo=trino&logoColor=white)
 
 ### 📊 BI & Visualization Tools
 
@@ -177,8 +194,13 @@ Responsibilities:
   - Visualize: Interactive dashboards in Looker Studio for stakeholder insights
   - Collaborate: International teams across 3 countries using Agile methodology
   - Optimize: Data storage, retrieval & governance across cloud infrastructure
+  - Lakehouse: Building modern data lakehouse with Apache Iceberg and Project Nessie
+  - Orchestration: Workflow automation using Apache Airflow for pipeline scheduling
+  - Query Engine: High-performance distributed SQL queries with Trino
+  - Object Storage: Scalable S3-compatible storage solutions using Minio
 
-Tech Stack: [GCP, BigQuery, Data Fusion, Dataflow, Looker Studio, Python, SQL, Git/GitLab]
+Tech Stack: [GCP, BigQuery, Data Fusion, Dataflow, Looker Studio, Apache Airflow, 
+            Apache Iceberg, Project Nessie, Trino, Minio, Python, SQL, Git/GitLab]
 ```
 
 ### 📊 Emirates Logistics
