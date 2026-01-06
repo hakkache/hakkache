@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Mohamed%20Hakkache&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Data%20Engineer%20%7C%20Data%20Analyst%20%7C%20Cloud%20Data%20Engineer&descAlignY=51&descAlign=50" width="100%"/>
 
 <!-- Typing Animation -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=false&repeat=true&width=800&height=100&lines=Transforming+Data+into+Insights+%F0%9F%9A%80;6%2B+Years+of+Data+Engineering+Excellence;100%2B+Professional+Certifications+%F0%9F%8E%93;Azure+%7C+GCP+%7C+Big+Data+Expert" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=false&repeat=true&width=800&height=100&lines=Transforming+Data+into+Insights+%F0%9F%9A%80;6%2B+Years+of+Data+Engineering+Excellence;100%2B+Professional+Certifications+%F0%9F%8E%93;Azure+%7C+AWS+%7C+GCP+%7C+Big+Data+Expert" alt="Typing SVG" /></a>
 
 <!-- Social Badges with Animation -->
 <p align="center">
@@ -49,10 +49,11 @@ class DataEngineer:
   def expertise(): List[String] =
     List(
       "End-to-End Data Solutions",
-      "Cloud Data Architecture",
+      "Cloud Data Architecture (AWS, Azure, GCP)",
       "Big Data Processing",
       "BI & Analytics",
-      "Pipeline Automation",
+      "Pipeline Automation & Orchestration",
+      "Observability & Monitoring",
       "Cross-functional Leadership"
     )
 
@@ -77,7 +78,7 @@ class DataEngineer:
 
 <table>
 <tr>
-<td align="center" width="50%">
+<td align="center" width="33%">
 
 **Microsoft Azure**
 
@@ -89,7 +90,7 @@ class DataEngineer:
 ![Fabric](https://img.shields.io/badge/MS_Fabric-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white)
 
 </td>
-<td align="center" width="50%">
+<td align="center" width="33%">
 
 **Google Cloud Platform**
 
@@ -101,9 +102,21 @@ class DataEngineer:
 ![Cloud Storage](https://img.shields.io/badge/Cloud_Storage-AECBFA?style=for-the-badge&logo=google-cloud&logoColor=black)
 
 </td>
+<td align="center" width="33%">
+
+**Amazon Web Services**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![S3](https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white)
+![Redshift](https://img.shields.io/badge/Redshift-8C4FFF?style=for-the-badge&logo=amazon-redshift&logoColor=white)
+![Glue](https://img.shields.io/badge/AWS_Glue-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Lambda](https://img.shields.io/badge/Lambda-FF9900?style=for-the-badge&logo=aws-lambda&logoColor=white)
+![EMR](https://img.shields.io/badge/EMR-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+</td>
 </tr>
 <tr>
-<td align="center" colspan="2">
+<td align="center" colspan="3">
 
 **Modern Data Lakehouse & Storage**
 
@@ -111,6 +124,7 @@ class DataEngineer:
 ![Project Nessie](https://img.shields.io/badge/Project_Nessie-4A90E2?style=for-the-badge&logo=git&logoColor=white)
 ![Minio](https://img.shields.io/badge/Minio-C72E49?style=for-the-badge&logo=minio&logoColor=white)
 ![Trino](https://img.shields.io/badge/Trino-DD00A1?style=for-the-badge&logo=trino&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
 
 </td>
 </tr>
@@ -127,9 +141,11 @@ class DataEngineer:
 ![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apache-hadoop&logoColor=black)
 ![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
 ![Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
 
 ### 🗄️ Databases & Storage
 
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
 ![Azure SQL](https://img.shields.io/badge/Azure_SQL-0078D4?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
@@ -146,6 +162,13 @@ class DataEngineer:
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Looker](https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=looker&logoColor=white)
 ![MicroStrategy](https://img.shields.io/badge/MicroStrategy-D9232E?style=for-the-badge&logo=microstrategy&logoColor=white)
+
+### 🔍 Observability & Monitoring
+
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
+![Kibana](https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 
 ### 🔧 DevOps & Tools
 
@@ -198,9 +221,12 @@ Responsibilities:
   - Orchestration: Workflow automation using Apache Airflow for pipeline scheduling
   - Query Engine: High-performance distributed SQL queries with Trino
   - Object Storage: Scalable S3-compatible storage solutions using Minio
+  - Monitoring: Real-time pipeline observability with Prometheus & Grafana
+  - Logging: Centralized log aggregation and analysis using Elasticsearch & Kibana
 
 Tech Stack: [GCP, BigQuery, Data Fusion, Dataflow, Looker Studio, Apache Airflow, 
-            Apache Iceberg, Project Nessie, Trino, Minio, Python, SQL, Git/GitLab]
+            Apache Iceberg, Project Nessie, Trino, Minio, Python, SQL, Git/GitLab,
+            Elasticsearch, Kibana, Prometheus, Grafana]
 ```
 
 ### 📊 Emirates Logistics
@@ -274,7 +300,7 @@ Tech Stack: [GCP, BigQuery, Data Fusion, Dataflow, Looker Studio, Apache Airflow
 
 <table>
 <tr>
-<td align="center" width="33%">
+<td align="center" width="25%">
 
 **🔵 Microsoft**
 
@@ -283,7 +309,7 @@ Tech Stack: [GCP, BigQuery, Data Fusion, Dataflow, Looker Studio, Apache Airflow
 ![Data Fundamentals](https://img.shields.io/badge/Data_Fundamentals-Certified-0078D4?style=for-the-badge&logo=microsoft)
 
 </td>
-<td align="center" width="33%">
+<td align="center" width="25%">
 
 **🔴 Google Cloud**
 
@@ -292,11 +318,18 @@ Tech Stack: [GCP, BigQuery, Data Fusion, Dataflow, Looker Studio, Apache Airflow
 ![BI Specialist](https://img.shields.io/badge/BI_Professional-Certified-34A853?style=for-the-badge&logo=google)
 
 </td>
-<td align="center" width="33%">
+<td align="center" width="25%">
 
 **🟠 Databricks**
 
 ![Databricks](https://img.shields.io/badge/Data_Engineer-Associate-FF3621?style=for-the-badge&logo=databricks)
+
+</td>
+<td align="center" width="25%">
+
+**🟡 AWS**
+
+![AWS](https://img.shields.io/badge/AWS-Certified-FF9900?style=for-the-badge&logo=amazon-aws)
 
 </td>
 </tr>
@@ -367,15 +400,24 @@ Tech Stack: [GCP, BigQuery, Data Fusion, Dataflow, Looker Studio, Apache Airflow
 |:---:|:---:|:---:|
 | Data Modeling (ERD, UML) | Azure Solutions | Power BI Development |
 | Data Warehousing | GCP Infrastructure | Dashboard Design |
-| ETL/ELT Pipeline Design | Cloud Migration | KPI Development |
+| ETL/ELT Pipeline Design (dbt) | AWS Cloud Services | KPI Development |
 | Data Lake Architecture | Multi-Cloud Strategy | Self-Service Analytics |
+| Snowflake Data Warehouse | Cloud Migration | Looker Studio |
 
-| 🔄 Data Processing | 🔐 Governance & Security | 🤝 Collaboration |
+| 🔄 Data Processing | 🔐 Governance & Security | 🔍 Observability |
 |:---:|:---:|:---:|
-| Apache Spark | Data Governance | Agile (Scrum/Kanban) |
-| Stream Processing | Microsoft Purview | Cross-functional Teams |
-| Batch Processing | Azure Active Directory | Stakeholder Management |
-| Real-time Analytics | RBAC Implementation | Technical Leadership |
+| Apache Spark | Data Governance | Elasticsearch & Kibana |
+| Stream Processing | Microsoft Purview | Prometheus & Grafana |
+| Batch Processing | Azure Active Directory | Pipeline Monitoring |
+| Real-time Analytics | RBAC Implementation | Performance Metrics |
+| dbt Transformations | Data Quality | Log Aggregation |
+
+| 🤝 Collaboration | 🛠️ DataOps | 📈 Advanced Analytics |
+|:---:|:---:|:---:|
+| Agile (Scrum/Kanban) | CI/CD Pipelines | Statistical Analysis |
+| Cross-functional Teams | Infrastructure as Code | Predictive Modeling |
+| Stakeholder Management | Version Control | A/B Testing |
+| Technical Leadership | Automated Testing | Machine Learning |
 
 </div>
 
@@ -468,27 +510,4 @@ Tech Stack: [GCP, BigQuery, Data Fusion, Dataflow, Looker Studio, Apache Airflow
 ### 🤝 Open to exciting opportunities in Data Engineering, Cloud Architecture, and Big Data!
 
 <p align="center">
-  <a href="mailto:Hakkache.mohamed@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Let's_Talk-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://www.linkedin.com/in/hakkache-mohamed/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/hakkache">
-    <img src="https://img.shields.io/badge/GitHub-Follow-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-</p>
-
-### 💬 *"Data is the new oil, but insights are the refined fuel that powers innovation!"* ⚡
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
-</p>
-
-### ⭐ If you find my work interesting, consider giving a star to my repositories!
-
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%"/>
-
-</div>
+  <a href="mailto:H
