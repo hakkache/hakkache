@@ -26,6 +26,113 @@
 
 ---
 
+## 📌 Featured Projects
+
+<div align="center">
+
+### 🚀 My Pinned Repositories
+
+</div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🏗️ [Data Engineering Project - AWS, DBT & Snowflake](https://github.com/hakkache/Data_Engineering_Project_AWS_DBT_SNOWFLAKE)
+
+**Modern Data Stack Implementation**
+
+[![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)](https://github.com/hakkache/Data_Engineering_Project_AWS_DBT_SNOWFLAKE)
+
+End-to-end data engineering pipeline leveraging AWS services, DBT transformations, and Snowflake data warehouse for scalable analytics.
+
+**Tech Stack:** `AWS` `DBT` `Snowflake` `Python` `SQL`
+
+</td>
+<td width="50%" valign="top">
+
+### 🏛️ [End-to-End Modern Distributed Lakehouse](https://github.com/hakkache/End-to-End-Modern-Distributed-Lakehouse)
+
+**Modern Data Lakehouse Architecture** ⭐ 5
+
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://github.com/hakkache/End-to-End-Modern-Distributed-Lakehouse)
+[![Stars](https://img.shields.io/github/stars/hakkache/End-to-End-Modern-Distributed-Lakehouse?style=flat-square)](https://github.com/hakkache/End-to-End-Modern-Distributed-Lakehouse/stargazers)
+
+Complete implementation of a distributed data lakehouse using Apache Iceberg, Nessie, Trino, and Minio for scalable data processing.
+
+**Tech Stack:** `Apache Iceberg` `Project Nessie` `Trino` `Minio` `Python`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 [Self-Healing Agentic Sentiment Analysis Pipeline](https://github.com/hakkache/Self-Healing-Agentic-Sentiment-Analysis-Pipeline)
+
+**AI-Powered Data Pipeline** ⭐ 5
+
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://github.com/hakkache/Self-Healing-Agentic-Sentiment-Analysis-Pipeline)
+[![Stars](https://img.shields.io/github/stars/hakkache/Self-Healing-Agentic-Sentiment-Analysis-Pipeline?style=flat-square)](https://github.com/hakkache/Self-Healing-Agentic-Sentiment-Analysis-Pipeline/stargazers)
+
+Intelligent sentiment analysis pipeline with self-healing capabilities, demonstrating advanced MLOps and automated pipeline recovery.
+
+**Tech Stack:** `Python` `Machine Learning` `MLOps` `AI Agents`
+
+</td>
+<td width="50%" valign="top">
+
+### 🏗️ [Quay Crane Real-Time Monitoring System](https://github.com/hakkache/QUAY-CRANE-REAL-TIME-MONITORING-SYSTEM)
+
+**IoT & Real-Time Analytics** ⭐ 2
+
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://github.com/hakkache/QUAY-CRANE-REAL-TIME-MONITORING-SYSTEM)
+
+Real-time monitoring system for port operations, processing IoT sensor data for operational insights and predictive maintenance.
+
+**Tech Stack:** `Python` `Real-Time Analytics` `IoT` `Streaming`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🎮 [Elden Ring Data E2E Project](https://github.com/hakkache/EldenRingDataE2Project)
+
+**Gaming Analytics Pipeline**
+
+[![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)](https://github.com/hakkache/EldenRingDataE2Project)
+
+End-to-end data engineering project analyzing Elden Ring game data, demonstrating ETL processes and data visualization techniques.
+
+**Tech Stack:** `Python` `Jupyter` `Data Analysis` `ETL`
+
+</td>
+<td width="50%" valign="top">
+
+### 📡 [Real-Time Data Streaming](https://github.com/hakkache/Real-Time-Data-Streaming)
+
+**Stream Processing Architecture**
+
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://github.com/hakkache/Real-Time-Data-Streaming)
+
+Implementation of real-time data streaming pipelines using modern streaming technologies for high-throughput data processing.
+
+**Tech Stack:** `Python` `Apache Kafka` `Stream Processing` `Real-Time`
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+[![View All Repositories](https://img.shields.io/badge/View_All_Repositories-24-00D9FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hakkache?tab=repositories)
+
+</div>
+
+---
+
 ## 🎯 About Me
 
 ```scala
@@ -373,22 +480,12 @@ Tech Stack: [GCP, BigQuery, Data Fusion, Dataflow, Looker Studio, Apache Airflow
 </div>
 
 <div align="center">
-  <!-- Streak Stats -->
-  <img 
-       src="https://github-readme-streak-stats.herokuapp.com/?user=hakkache&theme=react&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" 
-       alt="GitHub Streak Stats"
-  />
-</div>
-
-<div align="center">
   <!-- Activity Graph -->
   <img 
        src="https://github-readme-activity-graph.vercel.app/graph?username=hakkache&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF" 
        alt="Contribution Graph"
   />
 </div>
-
-
 
 ---
 
@@ -510,4 +607,33 @@ Tech Stack: [GCP, BigQuery, Data Fusion, Dataflow, Looker Studio, Apache Airflow
 ### 🤝 Open to exciting opportunities in Data Engineering, Cloud Architecture, and Big Data!
 
 <p align="center">
-  <a href="mailto:H
+  <a href="mailto:Hakkache.mohamed@gmail.com">
+    <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://www.linkedin.com/in/hakkache-mohamed/">
+    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/hakkache">
+    <img src="https://img.shields.io/badge/Follow_on_GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
+
+### 💬 Always happy to discuss:
+- 🚀 Data Engineering Best Practices
+- ☁️ Cloud Architecture & Migration Strategies
+- 📊 Business Intelligence & Analytics
+- 🤖 MLOps & DataOps Implementation
+- 🌐 Big Data Technologies & Modern Data Stack
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+
+</div><!-- Streak Stats -->
+  <img 
+       src="https://github-readme-streak-stats.herokuapp.com/?user=hakkache&theme=react&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" 
+       alt="GitHub Streak Stats"
+  />
+</div>
+
+<div align="center">
