@@ -324,16 +324,10 @@ Responsibilities:
   - Visualize: Interactive dashboards in Looker Studio for stakeholder insights
   - Collaborate: International teams across 3 countries using Agile methodology
   - Optimize: Data storage, retrieval & governance across cloud infrastructure
-  - Lakehouse: Building modern data lakehouse with Apache Iceberg and Project Nessie
   - Orchestration: Workflow automation using Apache Airflow for pipeline scheduling
-  - Query Engine: High-performance distributed SQL queries with Trino
-  - Object Storage: Scalable S3-compatible storage solutions using Minio
-  - Monitoring: Real-time pipeline observability with Prometheus & Grafana
-  - Logging: Centralized log aggregation and analysis using Elasticsearch & Kibana
 
 Tech Stack: [GCP, BigQuery, Data Fusion, Dataflow, Looker Studio, Apache Airflow, 
-            Apache Iceberg, Project Nessie, Trino, Minio, Python, SQL, Git/GitLab,
-            Elasticsearch, Kibana, Prometheus, Grafana]
+            Python, SQL, Git/GitLab]
 ```
 
 ### 📊 Emirates Logistics
