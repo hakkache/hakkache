@@ -46,7 +46,7 @@
 
 End-to-end data engineering pipeline leveraging AWS services, DBT transformations, and Snowflake data warehouse for scalable analytics.
 
-**Tech Stack:** `AWS` `DBT` `Snowflake` `Python` `SQL`
+**Tech Stack:** `AWS S3` `DBT Core` `Snowflake` `Python` `SQL` `Streamlit` `CatBoost` `Jupyter` `Plotly` `Pandas` `NumPy`
 
 </td>
 <td width="50%" valign="top">
@@ -60,7 +60,7 @@ End-to-end data engineering pipeline leveraging AWS services, DBT transformation
 
 Complete implementation of a distributed data lakehouse using Apache Iceberg, Nessie, Trino, and Minio for scalable data processing.
 
-**Tech Stack:** `Apache Iceberg` `Project Nessie` `Trino` `Minio` `Python`
+**Tech Stack:** `Apache Airflow` `Apache Iceberg` `Project Nessie` `Trino` `Minio` `DBT` `Docker` `PostgreSQL` `Redis` `Polars` `Python`
 
 </td>
 </tr>
@@ -77,7 +77,7 @@ Complete implementation of a distributed data lakehouse using Apache Iceberg, Ne
 
 Intelligent sentiment analysis pipeline with self-healing capabilities, demonstrating advanced MLOps and automated pipeline recovery.
 
-**Tech Stack:** `Python` `Machine Learning` `MLOps` `AI Agents`
+**Tech Stack:** `Apache Airflow` `Ollama LLM` `Llama3.2` `Celery` `Redis` `PostgreSQL` `Docker` `Python` `NLP` `MLOps`
 
 </td>
 <td width="50%" valign="top">
@@ -325,6 +325,7 @@ Responsibilities:
   - Collaborate: International teams across 3 countries using Agile methodology
   - Optimize: Data storage, retrieval & governance across cloud infrastructure
   - Orchestration: Workflow automation using Apache Airflow for pipeline scheduling
+
 
 Tech Stack: [GCP, BigQuery, Data Fusion, Dataflow, Looker Studio, Apache Airflow, 
             Python, SQL, Git/GitLab]
